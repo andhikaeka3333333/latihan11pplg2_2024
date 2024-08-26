@@ -17,6 +17,14 @@ class _ListSiswaPplg2State extends State<ListSiswaPplg2> {
     ModelSiswa("Andhika", "Kudus", "images/male.png"),
     ModelSiswa("Pirlo", "Kudus", "images/male.png"),
     ModelSiswa("Aurel", "Batam", "images/female.png"),
+    ModelSiswa("Brillian", "Kudus", "images/male.png"),
+    ModelSiswa("Bumi", "Batang", "images/male.png"),
+    ModelSiswa("Caesar", "Tangerang", "images/male.png"),
+    ModelSiswa("Giga", "Tangerang", "images/male.png"),
+    ModelSiswa("Indah", "Tuban", "images/female.png"),
+    ModelSiswa("Jihad", "Jakarta", "images/male.png"),
+    ModelSiswa("Kaisar", "Kudus", "images/male.png"),
+    ModelSiswa("Kenas", "Sumedang", "images/male.png"),
   ];
 
   @override
